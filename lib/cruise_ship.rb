@@ -14,6 +14,6 @@ def select_winner(passengers)
       winter = name
     end
   end
-    winner
+  end
 
 end
